@@ -1,0 +1,3 @@
+[submodule "ex"]
+	path = ex
+	url = git@github.com:MicheleMorelli/submodule_ex.git
